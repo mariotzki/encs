@@ -1,0 +1,204 @@
+{
+  items: [
+    {
+      top: true,
+      label: "ABOUT US",
+      url: "#",
+      items: [
+        {
+          label: "Who we are",
+          url: "http://www.everynationseattle.org/who-we-are/"
+        },
+        {
+          label: "Our beliefs",
+          url: "http://www.everynationseattle.org/what-we-believe/"
+        },
+        {
+          label: "Our Team",
+          url: "http://www.everynationseattle.org/meet-the-team/"
+        },
+        {
+          label: "Our Stories",
+          url: "#",
+          items: [
+            {
+              label: "Salvation Stories",
+              url: "http://www.everynationseattle.org/our-stories/"
+            },
+            {
+              label: "Freedom Stories",
+              url: "http://www.everynationseattle.org/freedom-stories/"
+            }
+          ]
+        },
+        {
+          label: "Our Location",
+          url: "http://www.everynationseattle.org/our-location/"
+        },
+        {
+          label: "Every Nation Ministries",
+          url: "http://www.everynationseattle.org/every-nation-ministries/"
+        }
+      ]
+    },
+    {
+      top: true,
+      label: "CONNECT",
+      url: "#",
+      items: [
+        {
+          label: "Upcoming Events",
+          url: "http://www.everynationseattle.org/events/"
+        },
+        {
+          label: "Find a Community Group",
+          url: "http://www.everynationseattle.org/community-group-locations/"
+        },
+        {
+          label: "College Students",
+          url: "http://www.everynationseattle.org/college-ministry/"
+        },
+        {
+          label: "Kids Church",
+          url: "http://www.everynationseattle.org/kids/"
+        },
+        {
+          label: "Share Your Story",
+          url: "http://www.everynationseattle.org/share-your-story/"
+        },
+        {
+          label: "Contact Us",
+          url: "http://www.everynationseattle.org/contact/"
+        }
+      ]
+    },
+    {
+      top: true,
+      label: "GROW",
+      url: "#",
+      items: [
+        {
+          label: "Explore Christianity",
+          url: "http://www.everynationseattle.org/exploring-christianity/",
+          items: [
+            {
+              label: "What Does It Mean To Know God?",
+              url: "http://www.everynationseattle.org/what-does-it-mean-to-know-god/"
+            },
+            {
+              label: "The Gospel: Key to Change",
+              url: "http://www.everynationseattle.org/the-gospel/",
+              
+            },
+            {
+              label: "The Gospel vs Religion",
+              url: "http://www.everynationseattle.org/the-gospel-vs-religion/",
+              
+            }
+          ]
+        },
+        {
+          label: "Read the Bible",
+          url: "http://www.everynationseattle.org/bible-reading/"
+        },
+        {
+          label: "Take a Class",
+          url: "http://www.everynationseattle.org/take-a-class/",
+          items: [
+            {
+              label: "Gospel 101",
+              url: "http://www.everynationseattle.org/gospel-class/"
+            },
+            {
+              label: "Church Family 201",
+              url: "http://www.everynationseattle.org/church-family-class/",
+              
+            },
+            {
+              label: "Life of Freedom 301",
+              url: "http://www.everynationseattle.org/life-of-freedom/",
+              
+            }
+          ]
+        },
+        {
+          label: "Get Water Baptize",
+          url: "http://www.everynationseattle.org/water-baptism/"
+        },
+        {
+          label: "Become a Church Member",
+          url: "http://www.everynationseattle.org/membership/"
+        },
+        {
+          label: "Request Pre-Marital Counseling",
+          url: "http://www.everynationseattle.org/request-pre-marital-counseling/"
+        },
+        {
+          label: "Resources",
+          url: "http://www.everynationseattle.org/resources/"
+        }
+      ]
+    },
+    {
+      top: true,
+      label: "SERVE",
+      url: "#",
+      items: [
+        {
+          label: "Join a Ministry Team",
+          url: "http://www.everynationseattle.org/ministry-teams/"
+        },
+        {
+          label: "Go on a Mission Trip",
+          url: "http://www.everynationseattle.org/staging/mission-trips",
+          
+        }
+      ]
+    },
+    {
+      top: true,
+      label: "GIVE",
+      url: "#",
+      items: [
+        {
+          label: "Give",
+          url: "http://www.everynationseattle.org/giving/"
+        },
+        {
+          label: "Big Give",
+          url: "http://www.everynationseattle.org/big-give/",
+          
+        }
+      ]
+    },
+    {
+      top: true,
+      label: "MEDIA",
+      url: "#",
+      items: [
+        {
+          label: "Sunday Messages",
+          url: "http://www.everynationseattle.org/media/"
+        },
+        {
+          label: "Videos",
+          url: "#",
+          items: [
+            {
+              label: "Salvation Stories",
+              url: "http://www.everynationseattle.org/our-stories/"
+            },
+            {
+              label: "Freedom Stories",
+              url: "http://www.everynationseattle.org/freedom-stories/"
+            }
+          ]
+        },
+        {
+          label: "Blog",
+          url: "http://www.everynationseattle.org/blog/"
+        }
+      ]
+    }
+  ]
+};
